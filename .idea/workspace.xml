@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96748d3f-a206-4482-9f52-8c8b33f34280" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ScJMTVpEZBiBGsGeHm9ENa9yA9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InstaAiPyBot" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.final_trainer">
+    <configuration name="5 riders" type="CompoundRunConfigurationType">
+      <toRun name="trainer-robust" type="PythonConfigurationType" />
+      <toRun name="trainer_minmax_standard" type="PythonConfigurationType" />
+      <toRun name="trainer_without_scaler" type="PythonConfigurationType" />
+      <toRun name="trainer_standard" type="PythonConfigurationType" />
+      <toRun name="trainer_minmax" type="PythonConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="trainer-robust" type="PythonConfigurationType" />
+      <toRun name="trainer6" type="PythonConfigurationType" />
+      <toRun name="trainer7" type="PythonConfigurationType" />
+      <toRun name="trainer8" type="PythonConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="driver" type="PythonConfigurationType" factoryName="Python">
+      <module name="pollution-forecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="final_trainer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pollution-forecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_trainer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="genetic-optimiazer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pollution-forecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/genetic-optimiazer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer-robust" type="PythonConfigurationType" factoryName="Python">
+      <module name="pollution-forecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer-robust.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer6-deep-genetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pollution-forecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train-deep-genetic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer_minmax" type="PythonConfigurationType" factoryName="Python">
+      <module name="pollution-forecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer_minmax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer_minmax_standard" type="PythonConfigurationType" factoryName="Python">
+      <module name="pollution-forecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer_minmax_standard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer_standard" type="PythonConfigurationType" factoryName="Python">
+      <module name="pollution-forecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer_standard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer_without_scaler" type="PythonConfigurationType" factoryName="Python">
+      <module name="pollution-forecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer_without_scaler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.5 riders" />
+      <item itemvalue="Python.trainer_minmax" />
+      <item itemvalue="Python.trainer_standard" />
+      <item itemvalue="Python.trainer_minmax_standard" />
+      <item itemvalue="Python.trainer-robust" />
+      <item itemvalue="Python.driver" />
+      <item itemvalue="Python.trainer_without_scaler" />
+      <item itemvalue="Python.trainer6-deep-genetic" />
+      <item itemvalue="Python.final_trainer" />
+      <item itemvalue="Python.genetic-optimiazer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.final_trainer" />
+        <item itemvalue="Python.genetic-optimiazer" />
+        <item itemvalue="Python.trainer6-deep-genetic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96748d3f-a206-4482-9f52-8c8b33f34280" name="Default Changelist" comment="" />
+      <created>1571856902821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571856902821</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="127" width="800" height="675" key="#Plugins" timestamp="1579223554325">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state x="395" y="127" width="800" height="675" key="#Plugins/0.32.1600.868@0.32.1600.868" timestamp="1579223554325" />
+    <state x="483" y="194" width="624" height="542" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579777202369">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state x="483" y="194" width="624" height="542" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.32.1600.868@0.32.1600.868" timestamp="1579777202369" />
+    <state x="579" y="224" key="FileChooserDialogImpl" timestamp="1575962164286">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state x="579" y="224" key="FileChooserDialogImpl/0.32.1600.868@0.32.1600.868" timestamp="1575962164286" />
+    <state width="1576" height="367" key="GridCell.Tab.0.bottom" timestamp="1579848204971">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state width="1576" height="367" key="GridCell.Tab.0.bottom/0.32.1600.868@0.32.1600.868" timestamp="1579848204971" />
+    <state width="1576" height="367" key="GridCell.Tab.0.center" timestamp="1579848204971">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state width="1576" height="367" key="GridCell.Tab.0.center/0.32.1600.868@0.32.1600.868" timestamp="1579848204971" />
+    <state width="1576" height="367" key="GridCell.Tab.0.left" timestamp="1579848204971">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state width="1576" height="367" key="GridCell.Tab.0.left/0.32.1600.868@0.32.1600.868" timestamp="1579848204971" />
+    <state width="1576" height="367" key="GridCell.Tab.0.right" timestamp="1579848204971">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state width="1576" height="367" key="GridCell.Tab.0.right/0.32.1600.868@0.32.1600.868" timestamp="1579848204971" />
+    <state width="1576" height="367" key="GridCell.Tab.1.bottom" timestamp="1579848204972">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state width="1576" height="367" key="GridCell.Tab.1.bottom/0.32.1600.868@0.32.1600.868" timestamp="1579848204972" />
+    <state width="1576" height="367" key="GridCell.Tab.1.center" timestamp="1579848204972">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state width="1576" height="367" key="GridCell.Tab.1.center/0.32.1600.868@0.32.1600.868" timestamp="1579848204972" />
+    <state width="1576" height="367" key="GridCell.Tab.1.left" timestamp="1579848204972">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state width="1576" height="367" key="GridCell.Tab.1.left/0.32.1600.868@0.32.1600.868" timestamp="1579848204972" />
+    <state width="1576" height="367" key="GridCell.Tab.1.right" timestamp="1579848204972">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state width="1576" height="367" key="GridCell.Tab.1.right/0.32.1600.868@0.32.1600.868" timestamp="1579848204972" />
+    <state x="274" y="101" key="SettingsEditor" timestamp="1579777240641">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state x="274" y="101" key="SettingsEditor/0.32.1600.868@0.32.1600.868" timestamp="1579777240641" />
+    <state x="405" y="181" width="790" height="570" key="find.popup" timestamp="1579330162399">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state x="405" y="181" width="790" height="570" key="find.popup/0.32.1600.868@0.32.1600.868" timestamp="1579330162399" />
+    <state x="463" y="218" width="672" height="678" key="search.everywhere.popup" timestamp="1579223538455">
+      <screen x="0" y="32" width="1600" height="868" />
+    </state>
+    <state x="463" y="218" width="672" height="678" key="search.everywhere.popup/0.32.1600.868@0.32.1600.868" timestamp="1579223538455" />
+  </component>
+</project>
